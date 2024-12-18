@@ -1,0 +1,6 @@
+{
+    "mongodb": "mongodb://localhost/dayz",
+    "token": "distoken",
+    "host": "0.0.0.0",
+    "port": "3002"
+}

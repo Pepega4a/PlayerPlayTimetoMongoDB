@@ -1,0 +1,12 @@
+{
+    "servers": [
+        {
+            "value": "1",
+            "name": "servername"
+        },
+        {
+            "value": "2",
+            "name": "servername2"
+        }
+    ]
+}
